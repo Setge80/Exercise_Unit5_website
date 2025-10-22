@@ -24,3 +24,5 @@ How to Open the Website
 
 3\. Open the file `index.html` with your preferred web browser (e.g., Chrome, Firefox, Edge).
 
+
+Or you can visit the live website directly at: https://setge80.github.io/Exercise_Unit5_website/
